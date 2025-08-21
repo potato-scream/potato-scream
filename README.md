@@ -11,7 +11,7 @@ Enjoy being in sync with designers and devs, сollaboration makes things happen.
 
 ### My projects
 
-✦ [https://demoqa.com](https://github.com/) - Demoqa UI automated tests
+✦ [https://demoqa.com]([https://github.com/](https://github.com/potato-scream/Registration-form-autotest)) - Demoqa UI automated tests
 
 ✦ [https://github.com](https://github.com) - Github UI automated tests
 
