@@ -1,11 +1,13 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/potato-scream" target="_blank">Kseniia</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3>About me:</h3>
-I'm a QA Engineer with UI dev experience.</br>
-I write automated tests in Java + Selenide, test APIs with REST Assured.</br>
-Manual testing and writing test docs from scratch? No stranger to both.</br>
-I spot bugs in logic as well as in UI and UX, years with layout and grasp of design principles trained my eye.</br>
-Enjoy being in sync with designers and devs, сollaboration makes things happen.</br>
+QA Engineer with a developer's eye for UI/UX.</br>
+I bridge the gap between functionality and user experience to ensure we ship products that are both robust and beautiful.</br>
+
+Automation: Building and maintaining automated tests for web (Java & Selenide) and APIs (REST Assured).</br>
+Full-Spectrum QA: Proficient in hands-on manual testing and creating clear, comprehensive test documentation from the ground up.</br>
+UI/UX Focus: My development background gives me an edge in spotting visual inconsistencies and usability flaws that others might miss.</br>
+Collaboration: I'm passionate about working in sync with designers and developers to turn great ideas into flawless products.</br>
 
 ## My [CV](https:)
 
@@ -15,7 +17,7 @@ Enjoy being in sync with designers and devs, сollaboration makes things happen.
 
 ✦ [Bookshop API tests](https://github.com/potato-scream/api-test-bookstore)
 
-✦ [files parsings](https://github.com/) - different file types parsings tests
+✦ [different file types parsings tests](https://github.com/potato-scream/File-parsing-autotests)
 
 ### Automation Stack:
 
