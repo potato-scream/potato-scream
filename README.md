@@ -9,7 +9,7 @@ Full-Spectrum QA: Proficient in hands-on manual testing and creating clear, comp
 UI/UX Focus: My development background gives me an edge in spotting visual inconsistencies and usability flaws that others might miss.</br>
 Collaboration: I'm passionate about working in sync with designers and developers to turn great ideas into flawless products.</br>
 
-## My [CV](https:)
+## My [CV](https://drive.google.com/file/d/1jzMojK_IQ7SnfuW7ERhmNIxkuc15fg-T/view?usp=sharing)
 
 ### My projects
 
